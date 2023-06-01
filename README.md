@@ -91,6 +91,7 @@ RegisterNumber:  212222230105
 ```
 
 ### Output:
+### TIMING DIAGRAM:
 ![Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-](exp1a.png)
 
 ### RTL

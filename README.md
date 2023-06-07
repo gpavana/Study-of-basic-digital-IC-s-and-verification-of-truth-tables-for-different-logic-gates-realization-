@@ -89,6 +89,10 @@ endmodule
 Developed by: PAVANA G
 RegisterNumber:  212222230105
 ```
+### TRUTH TABLE:
+![Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-](tt.png)
+### LOGIC DIAGRAM:
+![Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-](gate.png)
 
 ### Output:
 ### TIMING DIAGRAM:
